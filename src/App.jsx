@@ -6,15 +6,15 @@ export default function PortfolioWebsite() {
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
           <div>
             <p className="text-sky-400 uppercase tracking-[0.3em] text-sm mb-4">
-              Production Engineer • SRE • Java Backend
+              Application Production Support Engineer • SRE • Java Backend
             </p>
             <h1 className="text-5xl md:text-7xl font-bold leading-tight">
               Deshabaktula <span className="text-sky-400">Preetham Sai</span>
             </h1>
             <p className="mt-6 text-slate-300 text-lg leading-8">
-              Production Engineer and SME with 3+ years of experience in operating,
+              Application Production Support Engineer and SME with 3+ years of experience in operating,
               debugging, and improving reliability of Java-based distributed systems.
-              Specialized in incident management, observability, latency analysis,
+              Specialized in application support, incident management, observability, latency analysis,
               and high-availability production systems.
             </p>
 
