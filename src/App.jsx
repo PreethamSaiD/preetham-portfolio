@@ -327,13 +327,13 @@ export default function PortfolioWebsite() {
 
         <div className="mt-8 flex justify-center gap-4 flex-wrap">
           <div className="border border-slate-700 px-5 py-3 rounded-2xl text-slate-300">
-            Email Hidden
+            Email - preetham1080@gmail.com
           </div>
           <div className="border border-slate-700 px-5 py-3 rounded-2xl text-slate-300">
             Phone Hidden
           </div>
           <div className="border border-slate-700 px-5 py-3 rounded-2xl text-slate-300">
-            LinkedIn Hidden
+            LinkedIn - https://www.linkedin.com/in/dpreethamsai2001/
           </div>
         </div>
       </footer>
